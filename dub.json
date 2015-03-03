@@ -1,0 +1,10 @@
+{
+  "name": "TDF Cards",
+  "description": "The TDF team card game.",
+  "copyright": "Copyright © 2015, Viking Edström",
+  "authors": ["Viking Edström"],
+  "dependencies": {
+    "vibe-d": ">=0.7.20"
+  },
+  "versions": ["VibeDefaultMain"]
+}
