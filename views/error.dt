@@ -1,0 +1,5 @@
+extends layout
+
+block body
+    h1 Something went wrong here!
+    p Our best engineers have been notified and are working on it.
